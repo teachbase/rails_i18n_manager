@@ -1,7 +1,7 @@
 require "rails_i18n_manager/engine"
 require "rails_i18n_manager/config"
 require "rails_i18n_manager/version"
-фз
+
 module RailsI18nManager
 
   def self.config(&block)
